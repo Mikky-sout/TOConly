@@ -25,8 +25,9 @@ def listToPandas():
     devList = []
     webList = []
     for i, val in enumerate(text):
-        name = re.search('title="[^"]*', val)
-        name = name[0][7:]
+        name = re.search('title="[^"]*">[<i>]*[^<]*<', val)
+        name = re.search('>[^<]{1}.*',name[0])
+        name = name[0][1:-1]
         web = re.search('<th scope="row">[<i>]*<a href="/wiki/[^"]*',val)
         web = re.search('/wiki/[^"]*',web[0])
         web = 'https://en.wikipedia.org' + web[0]
