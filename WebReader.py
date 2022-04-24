@@ -24,6 +24,7 @@ def listToPandas():
     genreList = []
     devList = []
     webList = []
+    imgList = []
     for i, val in enumerate(text):
         name = re.search('title="[^"]*">[<i>]*[^<]*<', val)
         name = re.search('>[^<]{1}.*',name[0])
@@ -33,6 +34,8 @@ def listToPandas():
         web = 'https://en.wikipedia.org' + web[0]
         webList.append(web)
         nameList.append(name)
+        img = findImage(web)
+        imgList.append(img)
         sold = re.search('♠">[0-9.]+', val)
         sold = sold[0][3:]
         soldList.append(sold)
@@ -71,7 +74,25 @@ def listToPandas():
     df['Genre'] = genreList
     df['Developer'] = devList
     df['Website'] = webList
+    df['Image_Path'] = imgList
     return df
+
+def findImage(web=None):
+    url = web
+    res = requests.get(url)
+    res.encoding = "utf-8"
+    source = str(res.text)
+    path = re.search('class="infobox-image"><a href="[^"]*"',source)
+    if path == None:
+        return ""
+    path = re.search('/wiki/[^"]*',path[0])
+    path = 'https://en.wikipedia.org/' + path[0]
+    res = requests.get(path)
+    source = str(res.text)
+    imgPath = re.search('class="fullImageLink" ?[^>]*><a href="[^"]*"', source)
+    imgPath = re.search('//upload[^"]*',imgPath[0])
+    return imgPath[0]
+
 
 def pandas2Json():
     df = listToPandas()

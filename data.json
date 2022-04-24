@@ -6,7 +6,8 @@
     "Release": "April 28, 2017",
     "Genre": "Kart racing game",
     "Developer": "Nintendo EPD",
-    "Website": "https://en.wikipedia.org/wiki/Mario_Kart_8_Deluxe"
+    "Website": "https://en.wikipedia.org/wiki/Mario_Kart_8_Deluxe",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/b/b5/MarioKart8Boxart.jpg"
   },
   {
     "Name": "Animal Crossing: New Horizons",
@@ -15,7 +16,8 @@
     "Release": "March 20, 2020",
     "Genre": "Social simulation game",
     "Developer": "Nintendo EPD",
-    "Website": "https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons"
+    "Website": "https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/1/1f/Animal_Crossing_New_Horizons.jpg"
   },
   {
     "Name": "Super Smash Bros. Ultimate",
@@ -24,7 +26,8 @@
     "Release": "December 7, 2018",
     "Genre": "Fighting game",
     "Developer": "Bandai Namco Studios , Sora Ltd.",
-    "Website": "https://en.wikipedia.org/wiki/Super_Smash_Bros._Ultimate"
+    "Website": "https://en.wikipedia.org/wiki/Super_Smash_Bros._Ultimate",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/5/50/Super_Smash_Bros._Ultimate.jpg"
   },
   {
     "Name": "The Legend of Zelda: Breath of the Wild",
@@ -33,7 +36,8 @@
     "Release": "March 3, 2017",
     "Genre": "Action-adventure",
     "Developer": "Nintendo EPD",
-    "Website": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild"
+    "Website": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg"
   },
   {
     "Name": "Pokémon Sword",
@@ -42,7 +46,8 @@
     "Release": "November 15, 2019",
     "Genre": "Role-playing video game",
     "Developer": "Game Freak",
-    "Website": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Sword_and_Shield"
+    "Website": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Sword_and_Shield",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/f/fa/Pok%C3%A9mon_Sword_and_Shield.jpg"
   },
   {
     "Name": "Super Mario Odyssey",
@@ -51,7 +56,8 @@
     "Release": "October 27, 2017",
     "Genre": "Platformer",
     "Developer": "Nintendo EPD",
-    "Website": "https://en.wikipedia.org/wiki/Super_Mario_Odyssey"
+    "Website": "https://en.wikipedia.org/wiki/Super_Mario_Odyssey",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/8/8d/Super_Mario_Odyssey.jpg"
   },
   {
     "Name": "Super Mario Party",
@@ -60,7 +66,8 @@
     "Release": "October 5, 2018",
     "Genre": "Party video game",
     "Developer": "NDcube",
-    "Website": "https://en.wikipedia.org/wiki/Super_Mario_Party"
+    "Website": "https://en.wikipedia.org/wiki/Super_Mario_Party",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/6/6c/Super_Mario_Party.jpg"
   },
   {
     "Name": "Pokémon: Let's Go, Pikachu!",
@@ -69,7 +76,8 @@
     "Release": "November 16, 2018",
     "Genre": "Role-playing video game",
     "Developer": "Game Freak",
-    "Website": "https://en.wikipedia.org/wiki/Pok%C3%A9mon:_Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!"
+    "Website": "https://en.wikipedia.org/wiki/Pok%C3%A9mon:_Let%27s_Go,_Pikachu!_and_Let%27s_Go,_Eevee!",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/4/47/Pok%C3%A9mon_Let%27s_Go%2C_Pikachu%21_and_Let%27s_Go%2C_Eevee%21.jpg"
   },
   {
     "Name": "Pokémon Brilliant Diamond",
@@ -78,7 +86,8 @@
     "Release": "November 19, 2021",
     "Genre": "Role-playing video game",
     "Developer": "ILCA",
-    "Website": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Brilliant_Diamond_and_Shining_Pearl"
+    "Website": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Brilliant_Diamond_and_Shining_Pearl",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/3/3e/Pokemon_Brilliant_Diamond_Shining_Pearl.png"
   },
   {
     "Name": "Ring Fit Adventure",
@@ -87,7 +96,8 @@
     "Release": "October 18, 2019",
     "Genre": "Exergame , Role-playing video game",
     "Developer": "Nintendo EPD",
-    "Website": "https://en.wikipedia.org/wiki/Ring_Fit_Adventure"
+    "Website": "https://en.wikipedia.org/wiki/Ring_Fit_Adventure",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/0/0e/Ringfitadventure.jpg"
   },
   {
     "Name": "New Super Mario Bros. U Deluxe",
@@ -96,7 +106,8 @@
     "Release": "January 11, 2019",
     "Genre": "Platformer",
     "Developer": "Nintendo EPD",
-    "Website": "https://en.wikipedia.org/wiki/New_Super_Mario_Bros._U_Deluxe"
+    "Website": "https://en.wikipedia.org/wiki/New_Super_Mario_Bros._U_Deluxe",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/0/03/New_Super_Mario_Bros._U_box_art.png"
   },
   {
     "Name": "Splatoon 2",
@@ -105,7 +116,8 @@
     "Release": "July 21, 2017",
     "Genre": "Third-person shooter",
     "Developer": "Nintendo EPD",
-    "Website": "https://en.wikipedia.org/wiki/Splatoon_2"
+    "Website": "https://en.wikipedia.org/wiki/Splatoon_2",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/4/49/Splatoon_2.jpg"
   },
   {
     "Name": "Luigi's Mansion 3",
@@ -114,7 +126,8 @@
     "Release": "October 31, 2019",
     "Genre": "Action-adventure",
     "Developer": "Next Level Games",
-    "Website": "https://en.wikipedia.org/wiki/Luigi%27s_Mansion_3"
+    "Website": "https://en.wikipedia.org/wiki/Luigi%27s_Mansion_3",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/3/38/Luigi%27s_Mansion_3.jpg"
   },
   {
     "Name": "Super Mario 3D All-Stars",
@@ -123,7 +136,8 @@
     "Release": "September 18, 2020",
     "Genre": "Platformer , Product bundling",
     "Developer": "Nintendo",
-    "Website": "https://en.wikipedia.org/wiki/Super_Mario_3D_All-Stars"
+    "Website": "https://en.wikipedia.org/wiki/Super_Mario_3D_All-Stars",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/0/01/Super_Mario_3D_All_Stars.jpg"
   },
   {
     "Name": "Super Mario 3D World + Bowser's Fury",
@@ -132,7 +146,8 @@
     "Release": "February 12, 2021",
     "Genre": "Platformer",
     "Developer": "Nintendo EPD",
-    "Website": "https://en.wikipedia.org/wiki/Super_Mario_3D_World_%2B_Bowser%27s_Fury"
+    "Website": "https://en.wikipedia.org/wiki/Super_Mario_3D_World_%2B_Bowser%27s_Fury",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/8/89/Bowser%27s_Fury_cover.jpg"
   },
   {
     "Name": "Monster Hunter Rise",
@@ -141,7 +156,8 @@
     "Release": "March 26, 2021",
     "Genre": "Action role-playing",
     "Developer": "Capcom",
-    "Website": "https://en.wikipedia.org/wiki/Monster_Hunter_Rise"
+    "Website": "https://en.wikipedia.org/wiki/Monster_Hunter_Rise",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/4/41/Monster_hunter_rise_cover.jpg"
   },
   {
     "Name": "Super Mario Maker 2",
@@ -150,7 +166,8 @@
     "Release": "June 28, 2019",
     "Genre": "Platformer , Level (video games)",
     "Developer": "Nintendo EPD",
-    "Website": "https://en.wikipedia.org/wiki/Super_Mario_Maker_2"
+    "Website": "https://en.wikipedia.org/wiki/Super_Mario_Maker_2",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/c/c7/Super_Mario_Maker_2.jpg"
   },
   {
     "Name": "Pokémon Legends: Arceus",
@@ -159,7 +176,8 @@
     "Release": "January 28, 2022",
     "Genre": "Action role-playing game",
     "Developer": "Game Freak",
-    "Website": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Legends:_Arceus"
+    "Website": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Legends:_Arceus",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/9/9c/Pokemon_Legends_Arceus_cover.jpg"
   },
   {
     "Name": "The Legend of Zelda: Link's Awakening",
@@ -168,7 +186,8 @@
     "Release": "September 20, 2019",
     "Genre": "Action-adventure",
     "Developer": "Grezzo",
-    "Website": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link%27s_Awakening_(2019_video_game)"
+    "Website": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link%27s_Awakening_(2019_video_game)",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/7/74/The_Legend_of_Zelda_Link%27s_Awakening_%282019_video_game%29.jpg"
   },
   {
     "Name": "Mario Party Superstars",
@@ -177,7 +196,8 @@
     "Release": "October 29, 2021",
     "Genre": "Party video game",
     "Developer": "NDcube",
-    "Website": "https://en.wikipedia.org/wiki/Mario_Party_Superstars"
+    "Website": "https://en.wikipedia.org/wiki/Mario_Party_Superstars",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/1/1a/Mario_Party_Superstars_cover_art.jpg"
   },
   {
     "Name": "Hyrule Warriors: Age of Calamity",
@@ -186,7 +206,8 @@
     "Release": "November 20, 2020",
     "Genre": "Hack and slash",
     "Developer": "Omega Force",
-    "Website": "https://en.wikipedia.org/wiki/Hyrule_Warriors:_Age_of_Calamity"
+    "Website": "https://en.wikipedia.org/wiki/Hyrule_Warriors:_Age_of_Calamity",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/e/e1/Hyrule_Warriors_Age_Of_Calamity.jpg"
   },
   {
     "Name": "The Legend of Zelda: Skyward Sword HD",
@@ -195,7 +216,8 @@
     "Release": "July 16, 2021",
     "Genre": "Action-adventure",
     "Developer": "Tantalus Media",
-    "Website": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Skyward_Sword_HD"
+    "Website": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Skyward_Sword_HD",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/9/99/Legend_of_Zelda_Skyward_Sword_boxart.png"
   },
   {
     "Name": "Momotaro Dentetsu: Showa, Heisei, Reiwa Mo Teiban!",
@@ -204,7 +226,8 @@
     "Release": "November 19, 2020",
     "Genre": "Board game",
     "Developer": "Konami",
-    "Website": "https://en.wikipedia.org/wiki/Momotaro_Dentetsu:_Showa,_Heisei,_Reiwa_Mo_Teiban!"
+    "Website": "https://en.wikipedia.org/wiki/Momotaro_Dentetsu:_Showa,_Heisei,_Reiwa_Mo_Teiban!",
+    "Image_Path": ""
   },
   {
     "Name": "Among Us",
@@ -213,7 +236,8 @@
     "Release": "December 15, 2020",
     "Genre": "Party video game , Social deduction game",
     "Developer": "Innersloth",
-    "Website": "https://en.wikipedia.org/wiki/Among_Us"
+    "Website": "https://en.wikipedia.org/wiki/Among_Us",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/9/9a/Among_Us_cover_art.jpg"
   },
   {
     "Name": "1-2-Switch",
@@ -222,7 +246,8 @@
     "Release": "March 3, 2017",
     "Genre": "Party video game",
     "Developer": "Nintendo EPD",
-    "Website": "https://en.wikipedia.org/wiki/1-2-Switch"
+    "Website": "https://en.wikipedia.org/wiki/1-2-Switch",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/2/21/1-2-Switch.jpg"
   },
   {
     "Name": "Clubhouse Games: 51 Worldwide Classics",
@@ -231,7 +256,8 @@
     "Release": "June 5, 2020",
     "Genre": "Tabletop game",
     "Developer": "NDcube",
-    "Website": "https://en.wikipedia.org/wiki/Clubhouse_Games:_51_Worldwide_Classics"
+    "Website": "https://en.wikipedia.org/wiki/Clubhouse_Games:_51_Worldwide_Classics",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/7/72/Clubhouse_Games_51_Worldwide_Classics.jpg"
   },
   {
     "Name": "Paper Mario: The Origami King",
@@ -240,7 +266,8 @@
     "Release": "July 17, 2020",
     "Genre": "Role-playing video game , Action-adventure",
     "Developer": "Intelligent Systems",
-    "Website": "https://en.wikipedia.org/wiki/Paper_Mario:_The_Origami_King"
+    "Website": "https://en.wikipedia.org/wiki/Paper_Mario:_The_Origami_King",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/5/59/Paper_Mario_The_Origami_King.jpg"
   },
   {
     "Name": "Mario Tennis Aces",
@@ -249,7 +276,8 @@
     "Release": "June 22, 2018",
     "Genre": "Sports game",
     "Developer": "Camelot Software Planning",
-    "Website": "https://en.wikipedia.org/wiki/Mario_Tennis_Aces"
+    "Website": "https://en.wikipedia.org/wiki/Mario_Tennis_Aces",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/1/13/Mario_Tennis_Aces.jpg"
   },
   {
     "Name": "Kirby Star Allies",
@@ -258,7 +286,8 @@
     "Release": "March 16, 2018",
     "Genre": "Platformer",
     "Developer": "HAL Laboratory",
-    "Website": "https://en.wikipedia.org/wiki/Kirby_Star_Allies"
+    "Website": "https://en.wikipedia.org/wiki/Kirby_Star_Allies",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/6/65/Kirby_Star_Allies.jpg"
   },
   {
     "Name": "Fire Emblem: Three Houses",
@@ -267,7 +296,8 @@
     "Release": "July 26, 2019",
     "Genre": "Tactical role-playing game",
     "Developer": "Intelligent Systems , Koei Tecmo",
-    "Website": "https://en.wikipedia.org/wiki/Fire_Emblem:_Three_Houses"
+    "Website": "https://en.wikipedia.org/wiki/Fire_Emblem:_Three_Houses",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/1/16/Fire_Emblem_Three_Houses.jpg"
   },
   {
     "Name": "Minecraft",
@@ -276,7 +306,8 @@
     "Release": "May 11, 2017",
     "Genre": "Sandbox game , Survival game",
     "Developer": "Mojang",
-    "Website": "https://en.wikipedia.org/wiki/Minecraft"
+    "Website": "https://en.wikipedia.org/wiki/Minecraft",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png"
   },
   {
     "Name": "Metroid Dread",
@@ -285,7 +316,8 @@
     "Release": "October 8, 2021",
     "Genre": "Action-adventure",
     "Developer": "MercurySteam , Nintendo EPD",
-    "Website": "https://en.wikipedia.org/wiki/Metroid_Dread"
+    "Website": "https://en.wikipedia.org/wiki/Metroid_Dread",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/f/f7/Metroid_Dread_Banner.png"
   },
   {
     "Name": "New Pokémon Snap",
@@ -294,7 +326,8 @@
     "Release": "April 30, 2021",
     "Genre": "Photography game",
     "Developer": "Bandai Namco Studios",
-    "Website": "https://en.wikipedia.org/wiki/New_Pok%C3%A9mon_Snap"
+    "Website": "https://en.wikipedia.org/wiki/New_Pok%C3%A9mon_Snap",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/f/f1/Newpokemonsnap.png"
   },
   {
     "Name": "Donkey Kong Country: Tropical Freeze",
@@ -303,7 +336,8 @@
     "Release": "May 4, 2018",
     "Genre": "Platformer",
     "Developer": "Retro Studios",
-    "Website": "https://en.wikipedia.org/wiki/Donkey_Kong_Country:_Tropical_Freeze"
+    "Website": "https://en.wikipedia.org/wiki/Donkey_Kong_Country:_Tropical_Freeze",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/f/fb/DKC5_box_art.jpg"
   },
   {
     "Name": "Arms",
@@ -312,7 +346,8 @@
     "Release": "June 16, 2017",
     "Genre": "Fighting game",
     "Developer": "Nintendo EPD",
-    "Website": "https://en.wikipedia.org/wiki/Arms_(video_game)"
+    "Website": "https://en.wikipedia.org/wiki/Arms_(video_game)",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/c/cc/Arms_%28video_game%29.jpg"
   },
   {
     "Name": "Mario Golf: Super Rush",
@@ -321,7 +356,8 @@
     "Release": "June 25, 2021",
     "Genre": "Sports video game",
     "Developer": "Camelot Software Planning",
-    "Website": "https://en.wikipedia.org/wiki/Mario_Golf:_Super_Rush"
+    "Website": "https://en.wikipedia.org/wiki/Mario_Golf:_Super_Rush",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/0/03/Mario_Golf_Super_Rush_Pre-Release_Logo.jpeg"
   },
   {
     "Name": "Pikmin 3 Deluxe",
@@ -330,7 +366,8 @@
     "Release": "October 30, 2020",
     "Genre": "Real-time strategy , Puzzle video game",
     "Developer": "Nintendo EPD , Eighting",
-    "Website": "https://en.wikipedia.org/wiki/Pikmin_3_Deluxe"
+    "Website": "https://en.wikipedia.org/wiki/Pikmin_3_Deluxe",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/5/53/Pikmin_3_box_artwork.png"
   },
   {
     "Name": "Mario + Rabbids Kingdom Battle",
@@ -339,7 +376,8 @@
     "Release": "August 29, 2017",
     "Genre": "Tactical role-playing game",
     "Developer": "Ubisoft Paris , Ubisoft Milan",
-    "Website": "https://en.wikipedia.org/wiki/Mario_%2B_Rabbids_Kingdom_Battle"
+    "Website": "https://en.wikipedia.org/wiki/Mario_%2B_Rabbids_Kingdom_Battle",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/f/f5/Mario_%2B_Rabbids_Kingdom_Battle.jpg"
   },
   {
     "Name": "Xenoblade Chronicles 2",
@@ -348,7 +386,8 @@
     "Release": "December 1, 2017",
     "Genre": "Action role-playing",
     "Developer": "Monolith Soft",
-    "Website": "https://en.wikipedia.org/wiki/Xenoblade_Chronicles_2"
+    "Website": "https://en.wikipedia.org/wiki/Xenoblade_Chronicles_2",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/4/4a/Xenoblade_Chronicles_2.jpg"
   },
   {
     "Name": "Yoshi's Crafted World",
@@ -357,7 +396,8 @@
     "Release": "March 29, 2019",
     "Genre": "Platformer",
     "Developer": "Good-Feel",
-    "Website": "https://en.wikipedia.org/wiki/Yoshi%27s_Crafted_World"
+    "Website": "https://en.wikipedia.org/wiki/Yoshi%27s_Crafted_World",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/3/38/Yoshi%27s_Crafted_World.jpg"
   },
   {
     "Name": "Miitopia",
@@ -366,7 +406,8 @@
     "Release": "May 21, 2021",
     "Genre": "Role-playing video game",
     "Developer": "Grezzo",
-    "Website": "https://en.wikipedia.org/wiki/Miitopia"
+    "Website": "https://en.wikipedia.org/wiki/Miitopia",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/7/77/Miitopia_3DS.jpg"
   },
   {
     "Name": "Xenoblade Chronicles: Definitive Edition",
@@ -375,7 +416,8 @@
     "Release": "May 29, 2020",
     "Genre": "Action role-playing",
     "Developer": "Monolith Soft",
-    "Website": "https://en.wikipedia.org/wiki/Xenoblade_Chronicles:_Definitive_Edition"
+    "Website": "https://en.wikipedia.org/wiki/Xenoblade_Chronicles:_Definitive_Edition",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/d/d9/Xenoblade_box_artwork.png"
   },
   {
     "Name": "Pokkén Tournament DX",
@@ -384,7 +426,8 @@
     "Release": "September 22, 2017",
     "Genre": "Fighting game",
     "Developer": "Bandai Namco Studios",
-    "Website": "https://en.wikipedia.org/wiki/Pokk%C3%A9n_Tournament_DX"
+    "Website": "https://en.wikipedia.org/wiki/Pokk%C3%A9n_Tournament_DX",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/9/99/PokkenTournamentBoxart.png"
   },
   {
     "Name": "Octopath Traveler",
@@ -393,7 +436,8 @@
     "Release": "July 13, 2018",
     "Genre": "Role-playing video game",
     "Developer": "Square Enix",
-    "Website": "https://en.wikipedia.org/wiki/Octopath_Traveler"
+    "Website": "https://en.wikipedia.org/wiki/Octopath_Traveler",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/3/34/Octopath_Traveler.jpg"
   },
   {
     "Name": "Captain Toad: Treasure Tracker",
@@ -402,7 +446,8 @@
     "Release": "July 13, 2018",
     "Genre": "Puzzle video game",
     "Developer": "Nintendo EPD",
-    "Website": "https://en.wikipedia.org/wiki/Captain_Toad:_Treasure_Tracker"
+    "Website": "https://en.wikipedia.org/wiki/Captain_Toad:_Treasure_Tracker",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/9/90/CaptainToadtreasuretracker.png"
   },
   {
     "Name": "Nintendo Labo Toy-Con 01: Variety Kit",
@@ -411,7 +456,8 @@
     "Release": "April 20, 2018",
     "Genre": "Construction kit",
     "Developer": "Nintendo EPD",
-    "Website": "https://en.wikipedia.org/wiki/Nintendo_Labo_Toy-Con_01:_Variety_Kit"
+    "Website": "https://en.wikipedia.org/wiki/Nintendo_Labo_Toy-Con_01:_Variety_Kit",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/commons/4/43/Labo-logo-make-play.svg"
   },
   {
     "Name": " Big Brain Academy: Brain vs. Brain",
@@ -420,7 +466,8 @@
     "Release": "December 3, 2021",
     "Genre": "Puzzle video game",
     "Developer": "Nintendo EPD",
-    "Website": "https://en.wikipedia.org/wiki/Big_Brain_Academy"
+    "Website": "https://en.wikipedia.org/wiki/Big_Brain_Academy",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/commons/c/cb/Big_Brain_Academy_Logo.png"
   },
   {
     "Name": "Mario Kart Live: Home Circuit",
@@ -429,7 +476,8 @@
     "Release": "October 16, 2020",
     "Genre": "Kart racing game , Augmented reality",
     "Developer": "Velan Studios",
-    "Website": "https://en.wikipedia.org/wiki/Mario_Kart_Live:_Home_Circuit"
+    "Website": "https://en.wikipedia.org/wiki/Mario_Kart_Live:_Home_Circuit",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/f/f5/Mario_Kart_Live_Home_Circuit.jpeg"
   },
   {
     "Name": "Pokémon Mystery Dungeon: Rescue Team DX",
@@ -438,7 +486,8 @@
     "Release": "March 6, 2020",
     "Genre": "Roguelike",
     "Developer": "Spike Chunsoft",
-    "Website": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Rescue_Team_DX"
+    "Website": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Rescue_Team_DX",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/9/9e/Pok%C3%A9mon_Mystery_Dungeon_Rescue_Team_DX.jpg"
   },
   {
     "Name": "WarioWare: Get It Together!",
@@ -447,7 +496,8 @@
     "Release": "September 10, 2021",
     "Genre": "Party game",
     "Developer": "Nintendo EPD , Intelligent Systems",
-    "Website": "https://en.wikipedia.org/wiki/WarioWare:_Get_It_Together!"
+    "Website": "https://en.wikipedia.org/wiki/WarioWare:_Get_It_Together!",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/6/6a/Get_It_Together_cover_art.jpg"
   },
   {
     "Name": "Astral Chain",
@@ -456,7 +506,8 @@
     "Release": "August 30, 2019",
     "Genre": "Action-adventure",
     "Developer": "PlatinumGames",
-    "Website": "https://en.wikipedia.org/wiki/Astral_Chain"
+    "Website": "https://en.wikipedia.org/wiki/Astral_Chain",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/6/67/Astral_Chain.jpg"
   },
   {
     "Name": "Marvel Ultimate Alliance 3: The Black Order",
@@ -465,7 +516,8 @@
     "Release": "July 19, 2019",
     "Genre": "Action role-playing",
     "Developer": "Team Ninja",
-    "Website": "https://en.wikipedia.org/wiki/Marvel_Ultimate_Alliance_3:_The_Black_Order"
+    "Website": "https://en.wikipedia.org/wiki/Marvel_Ultimate_Alliance_3:_The_Black_Order",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/6/6c/Marvelultimate3.jpg"
   },
   {
     "Name": "Game Builder Garage",
@@ -474,7 +526,8 @@
     "Release": "June 11, 2021",
     "Genre": "Programming game",
     "Developer": "Nintendo EPD",
-    "Website": "https://en.wikipedia.org/wiki/Game_Builder_Garage"
+    "Website": "https://en.wikipedia.org/wiki/Game_Builder_Garage",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/d/de/Game_Builder_Garage_Icon.png"
   },
   {
     "Name": "Enter the Gungeon",
@@ -483,7 +536,8 @@
     "Release": "December 14, 2017",
     "Genre": "Bullet hell",
     "Developer": "Dodge Roll",
-    "Website": "https://en.wikipedia.org/wiki/Enter_the_Gungeon"
+    "Website": "https://en.wikipedia.org/wiki/Enter_the_Gungeon",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/e/ef/Enter_the_Gungeon_logo.png"
   },
   {
     "Name": "Fitness Boxing",
@@ -492,7 +546,8 @@
     "Release": "December 20, 2018",
     "Genre": "Exergame , Rhythm game",
     "Developer": "Imagineer (Japanese company)",
-    "Website": "https://en.wikipedia.org/wiki/Fitness_Boxing"
+    "Website": "https://en.wikipedia.org/wiki/Fitness_Boxing",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/8/8a/Fitness_Boxing.jpg"
   },
   {
     "Name": "Fitness Boxing 2: Rhythm and Exercise",
@@ -501,7 +556,8 @@
     "Release": "December 4, 2020",
     "Genre": "Exergame , Rhythm game",
     "Developer": "Imagineer (Japanese company)",
-    "Website": "https://en.wikipedia.org/wiki/Fitness_Boxing"
+    "Website": "https://en.wikipedia.org/wiki/Fitness_Boxing",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/8/8a/Fitness_Boxing.jpg"
   },
   {
     "Name": "Shin Megami Tensei V",
@@ -510,7 +566,8 @@
     "Release": "November 11, 2021",
     "Genre": "Role-playing video game",
     "Developer": "Atlus",
-    "Website": "https://en.wikipedia.org/wiki/Shin_Megami_Tensei_V"
+    "Website": "https://en.wikipedia.org/wiki/Shin_Megami_Tensei_V",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/b/bd/Shin_Megami_Tensei_V.png"
   },
   {
     "Name": "Story of Seasons: Pioneers of Olive Town",
@@ -519,7 +576,8 @@
     "Release": "February 25, 2021",
     "Genre": "Simulation , Role-playing video game",
     "Developer": "Marvelous Entertainment",
-    "Website": "https://en.wikipedia.org/wiki/Story_of_Seasons:_Pioneers_of_Olive_Town"
+    "Website": "https://en.wikipedia.org/wiki/Story_of_Seasons:_Pioneers_of_Olive_Town",
+    "Image_Path": ""
   },
   {
     "Name": "Taiko no Tatsujin: Drum 'n' Fun!",
@@ -528,7 +586,8 @@
     "Release": "July 19, 2018",
     "Genre": "Rhythm game",
     "Developer": "Bandai Namco Studios",
-    "Website": "https://en.wikipedia.org/wiki/Taiko_no_Tatsujin:_Drum_%27n%27_Fun!"
+    "Website": "https://en.wikipedia.org/wiki/Taiko_no_Tatsujin:_Drum_%27n%27_Fun!",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/c/cc/Taiko_no_Tatsujin_Switch.jpg"
   },
   {
     "Name": "Thief Simulator",
@@ -537,6 +596,7 @@
     "Release": "May 19, 2019",
     "Genre": "Stealth game",
     "Developer": "Noble Muffins",
-    "Website": "https://en.wikipedia.org/wiki/Thief_Simulator"
+    "Website": "https://en.wikipedia.org/wiki/Thief_Simulator",
+    "Image_Path": "//upload.wikimedia.org/wikipedia/en/5/56/Thief_Simulator_cover.jpg"
   }
 ]
