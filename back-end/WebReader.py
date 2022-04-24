@@ -68,7 +68,7 @@ def listToPandas():
             dev = re.search('[a-zA-Z0-9 _/%-]+', devText)[0]
         devList.append(dev)
     df['Name'] = nameList
-    df['Copies sold'] = soldList
+    df['Copies_sold'] = soldList
     df['Update'] = updateList
     df['Release'] = releaseList
     df['Genre'] = genreList
@@ -102,13 +102,13 @@ def pandas2Json():
 
 def saveJSON():
     parsed = pandas2Json()
-    with open("../data.json", "w", encoding="utf-8") as output:
+    with open("data.json", "w", encoding="utf-8") as output:
         json.dump(parsed, output,ensure_ascii=False,indent=2)
         print("Save data completely")
     return parsed
 
 def getJSON():
-    with open("../data.json", encoding='utf-8') as f:
+    with open("data.json", encoding='utf-8') as f:
         data = json.load(f)
     return data
 

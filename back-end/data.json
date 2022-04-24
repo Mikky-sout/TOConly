@@ -1,7 +1,7 @@
 [
   {
     "Name": "Mario Kart 8 Deluxe",
-    "Copies sold": "43.35",
+    "Copies_sold": "43.35",
     "Update": "December 31, 2021",
     "Release": "April 28, 2017",
     "Genre": "Kart racing game",
@@ -11,7 +11,7 @@
   },
   {
     "Name": "Animal Crossing: New Horizons",
-    "Copies sold": "37.62",
+    "Copies_sold": "37.62",
     "Update": "December 31, 2021",
     "Release": "March 20, 2020",
     "Genre": "Social simulation game",
@@ -21,7 +21,7 @@
   },
   {
     "Name": "Super Smash Bros. Ultimate",
-    "Copies sold": "27.40",
+    "Copies_sold": "27.40",
     "Update": "December 31, 2021",
     "Release": "December 7, 2018",
     "Genre": "Fighting game",
@@ -31,7 +31,7 @@
   },
   {
     "Name": "The Legend of Zelda: Breath of the Wild",
-    "Copies sold": "25.80",
+    "Copies_sold": "25.80",
     "Update": "December 31, 2021",
     "Release": "March 3, 2017",
     "Genre": "Action-adventure",
@@ -41,7 +41,7 @@
   },
   {
     "Name": "Pokémon Sword",
-    "Copies sold": "23.90",
+    "Copies_sold": "23.90",
     "Update": "December 31, 2021",
     "Release": "November 15, 2019",
     "Genre": "Role-playing video game",
@@ -51,7 +51,7 @@
   },
   {
     "Name": "Super Mario Odyssey",
-    "Copies sold": "23.02",
+    "Copies_sold": "23.02",
     "Update": "December 31, 2021",
     "Release": "October 27, 2017",
     "Genre": "Platformer",
@@ -61,7 +61,7 @@
   },
   {
     "Name": "Super Mario Party",
-    "Copies sold": "17.39",
+    "Copies_sold": "17.39",
     "Update": "December 31, 2021",
     "Release": "October 5, 2018",
     "Genre": "Party video game",
@@ -71,7 +71,7 @@
   },
   {
     "Name": "Pokémon: Let's Go, Pikachu!",
-    "Copies sold": "14.33",
+    "Copies_sold": "14.33",
     "Update": "December 31, 2021",
     "Release": "November 16, 2018",
     "Genre": "Role-playing video game",
@@ -81,7 +81,7 @@
   },
   {
     "Name": "Pokémon Brilliant Diamond",
-    "Copies sold": "13.97",
+    "Copies_sold": "13.97",
     "Update": "December 31, 2021",
     "Release": "November 19, 2021",
     "Genre": "Role-playing video game",
@@ -91,7 +91,7 @@
   },
   {
     "Name": "Ring Fit Adventure",
-    "Copies sold": "13.53",
+    "Copies_sold": "13.53",
     "Update": "December 31, 2021",
     "Release": "October 18, 2019",
     "Genre": "Exergame , Role-playing video game",
@@ -101,7 +101,7 @@
   },
   {
     "Name": "New Super Mario Bros. U Deluxe",
-    "Copies sold": "12.72",
+    "Copies_sold": "12.72",
     "Update": "December 31, 2021",
     "Release": "January 11, 2019",
     "Genre": "Platformer",
@@ -111,7 +111,7 @@
   },
   {
     "Name": "Splatoon 2",
-    "Copies sold": "12.68",
+    "Copies_sold": "12.68",
     "Update": "September 30, 2021",
     "Release": "July 21, 2017",
     "Genre": "Third-person shooter",
@@ -121,7 +121,7 @@
   },
   {
     "Name": "Luigi's Mansion 3",
-    "Copies sold": "11.04",
+    "Copies_sold": "11.04",
     "Update": "December 31, 2021",
     "Release": "October 31, 2019",
     "Genre": "Action-adventure",
@@ -131,7 +131,7 @@
   },
   {
     "Name": "Super Mario 3D All-Stars",
-    "Copies sold": "9.01",
+    "Copies_sold": "9.01",
     "Update": "March 31, 2021",
     "Release": "September 18, 2020",
     "Genre": "Platformer , Product bundling",
@@ -141,7 +141,7 @@
   },
   {
     "Name": "Super Mario 3D World + Bowser's Fury",
-    "Copies sold": "8.85",
+    "Copies_sold": "8.85",
     "Update": "December 31, 2021",
     "Release": "February 12, 2021",
     "Genre": "Platformer",
@@ -151,7 +151,7 @@
   },
   {
     "Name": "Monster Hunter Rise",
-    "Copies sold": "7.70",
+    "Copies_sold": "7.70",
     "Update": "December 31, 2021",
     "Release": "March 26, 2021",
     "Genre": "Action role-playing",
@@ -161,7 +161,7 @@
   },
   {
     "Name": "Super Mario Maker 2",
-    "Copies sold": "7.15",
+    "Copies_sold": "7.15",
     "Update": "March 31, 2021",
     "Release": "June 28, 2019",
     "Genre": "Platformer , Level (video games)",
@@ -171,7 +171,7 @@
   },
   {
     "Name": "Pokémon Legends: Arceus",
-    "Copies sold": "6.50",
+    "Copies_sold": "6.50",
     "Update": "February 3, 2022",
     "Release": "January 28, 2022",
     "Genre": "Action role-playing game",
@@ -181,7 +181,7 @@
   },
   {
     "Name": "The Legend of Zelda: Link's Awakening",
-    "Copies sold": "5.49",
+    "Copies_sold": "5.49",
     "Update": "March 31, 2021",
     "Release": "September 20, 2019",
     "Genre": "Action-adventure",
@@ -191,7 +191,7 @@
   },
   {
     "Name": "Mario Party Superstars",
-    "Copies sold": "5.43",
+    "Copies_sold": "5.43",
     "Update": "December 31, 2021",
     "Release": "October 29, 2021",
     "Genre": "Party video game",
@@ -201,7 +201,7 @@
   },
   {
     "Name": "Hyrule Warriors: Age of Calamity",
-    "Copies sold": "4.00",
+    "Copies_sold": "4.00",
     "Update": "January 4, 2022",
     "Release": "November 20, 2020",
     "Genre": "Hack and slash",
@@ -211,7 +211,7 @@
   },
   {
     "Name": "The Legend of Zelda: Skyward Sword HD",
-    "Copies sold": "3.85",
+    "Copies_sold": "3.85",
     "Update": "December 31, 2021",
     "Release": "July 16, 2021",
     "Genre": "Action-adventure",
@@ -221,7 +221,7 @@
   },
   {
     "Name": "Momotaro Dentetsu: Showa, Heisei, Reiwa Mo Teiban!",
-    "Copies sold": "3.50",
+    "Copies_sold": "3.50",
     "Update": "March 22, 2022",
     "Release": "November 19, 2020",
     "Genre": "Board game",
@@ -231,7 +231,7 @@
   },
   {
     "Name": "Among Us",
-    "Copies sold": "3.20",
+    "Copies_sold": "3.20",
     "Update": "December 31, 2020",
     "Release": "December 15, 2020",
     "Genre": "Party video game , Social deduction game",
@@ -241,7 +241,7 @@
   },
   {
     "Name": "1-2-Switch",
-    "Copies sold": "3.18",
+    "Copies_sold": "3.18",
     "Update": "December 31, 2019",
     "Release": "March 3, 2017",
     "Genre": "Party video game",
@@ -251,7 +251,7 @@
   },
   {
     "Name": "Clubhouse Games: 51 Worldwide Classics",
-    "Copies sold": "3.14",
+    "Copies_sold": "3.14",
     "Update": "March 31, 2021",
     "Release": "June 5, 2020",
     "Genre": "Tabletop game",
@@ -261,7 +261,7 @@
   },
   {
     "Name": "Paper Mario: The Origami King",
-    "Copies sold": "3.12",
+    "Copies_sold": "3.12",
     "Update": "March 31, 2021",
     "Release": "July 17, 2020",
     "Genre": "Role-playing video game , Action-adventure",
@@ -271,7 +271,7 @@
   },
   {
     "Name": "Mario Tennis Aces",
-    "Copies sold": "3.06",
+    "Copies_sold": "3.06",
     "Update": "December 31, 2019",
     "Release": "June 22, 2018",
     "Genre": "Sports game",
@@ -281,7 +281,7 @@
   },
   {
     "Name": "Kirby Star Allies",
-    "Copies sold": "2.93",
+    "Copies_sold": "2.93",
     "Update": "December 31, 2019",
     "Release": "March 16, 2018",
     "Genre": "Platformer",
@@ -291,7 +291,7 @@
   },
   {
     "Name": "Fire Emblem: Three Houses",
-    "Copies sold": "2.87",
+    "Copies_sold": "2.87",
     "Update": "March 31, 2020",
     "Release": "July 26, 2019",
     "Genre": "Tactical role-playing game",
@@ -301,7 +301,7 @@
   },
   {
     "Name": "Minecraft",
-    "Copies sold": "2.81",
+    "Copies_sold": "2.81",
     "Update": "December 5, 2021",
     "Release": "May 11, 2017",
     "Genre": "Sandbox game , Survival game",
@@ -311,7 +311,7 @@
   },
   {
     "Name": "Metroid Dread",
-    "Copies sold": "2.74",
+    "Copies_sold": "2.74",
     "Update": "December 31, 2021",
     "Release": "October 8, 2021",
     "Genre": "Action-adventure",
@@ -321,7 +321,7 @@
   },
   {
     "Name": "New Pokémon Snap",
-    "Copies sold": "2.66",
+    "Copies_sold": "2.66",
     "Update": "November 28, 2021",
     "Release": "April 30, 2021",
     "Genre": "Photography game",
@@ -331,7 +331,7 @@
   },
   {
     "Name": "Donkey Kong Country: Tropical Freeze",
-    "Copies sold": "2.65",
+    "Copies_sold": "2.65",
     "Update": "December 31, 2019",
     "Release": "May 4, 2018",
     "Genre": "Platformer",
@@ -341,7 +341,7 @@
   },
   {
     "Name": "Arms",
-    "Copies sold": "2.38",
+    "Copies_sold": "2.38",
     "Update": "December 31, 2019",
     "Release": "June 16, 2017",
     "Genre": "Fighting game",
@@ -351,7 +351,7 @@
   },
   {
     "Name": "Mario Golf: Super Rush",
-    "Copies sold": "2.26",
+    "Copies_sold": "2.26",
     "Update": "December 31, 2021",
     "Release": "June 25, 2021",
     "Genre": "Sports video game",
@@ -361,7 +361,7 @@
   },
   {
     "Name": "Pikmin 3 Deluxe",
-    "Copies sold": "2.04",
+    "Copies_sold": "2.04",
     "Update": "March 31, 2021",
     "Release": "October 30, 2020",
     "Genre": "Real-time strategy , Puzzle video game",
@@ -371,7 +371,7 @@
   },
   {
     "Name": "Mario + Rabbids Kingdom Battle",
-    "Copies sold": "2",
+    "Copies_sold": "2",
     "Update": "September 2, 2018",
     "Release": "August 29, 2017",
     "Genre": "Tactical role-playing game",
@@ -381,7 +381,7 @@
   },
   {
     "Name": "Xenoblade Chronicles 2",
-    "Copies sold": "1.92",
+    "Copies_sold": "1.92",
     "Update": "December 31, 2019",
     "Release": "December 1, 2017",
     "Genre": "Action role-playing",
@@ -391,7 +391,7 @@
   },
   {
     "Name": "Yoshi's Crafted World",
-    "Copies sold": "1.84",
+    "Copies_sold": "1.84",
     "Update": "December 31, 2019",
     "Release": "March 29, 2019",
     "Genre": "Platformer",
@@ -401,7 +401,7 @@
   },
   {
     "Name": "Miitopia",
-    "Copies sold": "1.63",
+    "Copies_sold": "1.63",
     "Update": "December 31, 2021",
     "Release": "May 21, 2021",
     "Genre": "Role-playing video game",
@@ -411,7 +411,7 @@
   },
   {
     "Name": "Xenoblade Chronicles: Definitive Edition",
-    "Copies sold": "1.52",
+    "Copies_sold": "1.52",
     "Update": "March 31, 2021",
     "Release": "May 29, 2020",
     "Genre": "Action role-playing",
@@ -421,7 +421,7 @@
   },
   {
     "Name": "Pokkén Tournament DX",
-    "Copies sold": "1.51",
+    "Copies_sold": "1.51",
     "Update": "March 31, 2018",
     "Release": "September 22, 2017",
     "Genre": "Fighting game",
@@ -431,7 +431,7 @@
   },
   {
     "Name": "Octopath Traveler",
-    "Copies sold": "1.5",
+    "Copies_sold": "1.5",
     "Update": "March 8, 2019",
     "Release": "July 13, 2018",
     "Genre": "Role-playing video game",
@@ -441,7 +441,7 @@
   },
   {
     "Name": "Captain Toad: Treasure Tracker",
-    "Copies sold": "1.44",
+    "Copies_sold": "1.44",
     "Update": "December 31, 2019",
     "Release": "July 13, 2018",
     "Genre": "Puzzle video game",
@@ -451,7 +451,7 @@
   },
   {
     "Name": "Nintendo Labo Toy-Con 01: Variety Kit",
-    "Copies sold": "1.31",
+    "Copies_sold": "1.31",
     "Update": "December 31, 2019",
     "Release": "April 20, 2018",
     "Genre": "Construction kit",
@@ -461,7 +461,7 @@
   },
   {
     "Name": " Big Brain Academy: Brain vs. Brain",
-    "Copies sold": "1.28",
+    "Copies_sold": "1.28",
     "Update": "December 31, 2021",
     "Release": "December 3, 2021",
     "Genre": "Puzzle video game",
@@ -471,7 +471,7 @@
   },
   {
     "Name": "Mario Kart Live: Home Circuit",
-    "Copies sold": "1.27",
+    "Copies_sold": "1.27",
     "Update": "March 31, 2021",
     "Release": "October 16, 2020",
     "Genre": "Kart racing game , Augmented reality",
@@ -481,7 +481,7 @@
   },
   {
     "Name": "Pokémon Mystery Dungeon: Rescue Team DX",
-    "Copies sold": "1.26",
+    "Copies_sold": "1.26",
     "Update": "March 31, 2020",
     "Release": "March 6, 2020",
     "Genre": "Roguelike",
@@ -491,7 +491,7 @@
   },
   {
     "Name": "WarioWare: Get It Together!",
-    "Copies sold": "1.24",
+    "Copies_sold": "1.24",
     "Update": "December 31, 2021",
     "Release": "September 10, 2021",
     "Genre": "Party game",
@@ -501,7 +501,7 @@
   },
   {
     "Name": "Astral Chain",
-    "Copies sold": "1.08",
+    "Copies_sold": "1.08",
     "Update": "March 31, 2020",
     "Release": "August 30, 2019",
     "Genre": "Action-adventure",
@@ -511,7 +511,7 @@
   },
   {
     "Name": "Marvel Ultimate Alliance 3: The Black Order",
-    "Copies sold": "1.08",
+    "Copies_sold": "1.08",
     "Update": "March 31, 2020",
     "Release": "July 19, 2019",
     "Genre": "Action role-playing",
@@ -521,7 +521,7 @@
   },
   {
     "Name": "Game Builder Garage",
-    "Copies sold": "1.01",
+    "Copies_sold": "1.01",
     "Update": "December 31, 2021",
     "Release": "June 11, 2021",
     "Genre": "Programming game",
@@ -531,7 +531,7 @@
   },
   {
     "Name": "Enter the Gungeon",
-    "Copies sold": "1",
+    "Copies_sold": "1",
     "Update": "March 3, 2019",
     "Release": "December 14, 2017",
     "Genre": "Bullet hell",
@@ -541,7 +541,7 @@
   },
   {
     "Name": "Fitness Boxing",
-    "Copies sold": "1",
+    "Copies_sold": "1",
     "Update": "September 8, 2020",
     "Release": "December 20, 2018",
     "Genre": "Exergame , Rhythm game",
@@ -551,7 +551,7 @@
   },
   {
     "Name": "Fitness Boxing 2: Rhythm and Exercise",
-    "Copies sold": "1",
+    "Copies_sold": "1",
     "Update": "December 9, 2021",
     "Release": "December 4, 2020",
     "Genre": "Exergame , Rhythm game",
@@ -561,7 +561,7 @@
   },
   {
     "Name": "Shin Megami Tensei V",
-    "Copies sold": "1",
+    "Copies_sold": "1",
     "Update": "April 18, 2022",
     "Release": "November 11, 2021",
     "Genre": "Role-playing video game",
@@ -571,7 +571,7 @@
   },
   {
     "Name": "Story of Seasons: Pioneers of Olive Town",
-    "Copies sold": "1",
+    "Copies_sold": "1",
     "Update": "November 18, 2021",
     "Release": "February 25, 2021",
     "Genre": "Simulation , Role-playing video game",
@@ -581,7 +581,7 @@
   },
   {
     "Name": "Taiko no Tatsujin: Drum 'n' Fun!",
-    "Copies sold": "1",
+    "Copies_sold": "1",
     "Update": "July 3, 2020",
     "Release": "July 19, 2018",
     "Genre": "Rhythm game",
@@ -591,7 +591,7 @@
   },
   {
     "Name": "Thief Simulator",
-    "Copies sold": "1",
+    "Copies_sold": "1",
     "Update": "July 16, 2021",
     "Release": "May 19, 2019",
     "Genre": "Stealth game",
