@@ -303,7 +303,7 @@
 
 
 
-    <div id="featuresSub" class="basic-4">
+    <div id="features_sub" class="basic-4">
         <div class="container">
             <div class="col-lg-12">
                 <div class="text-container">
@@ -312,9 +312,10 @@
             </div>
             <div class="row">
                 {% for item in database %}
-                <div class="col-lg-3 shadow-sm mb-3 card" id="myBtnpopup{{item.id}}">
+                <div class="col-lg-3 shadow-sm mb-3 card" id="supBTN{{item.id}}">
                     <div class="card-top">
-                        <img src="{{item.Image_Path}}" alt="Blog Name" width="150px" height="150px" data-id="{{item.id}}" class="info">
+                        <img src="{{item.Image_Path}}" alt="Blog Name" width="150px" height="150px" data-id='{{item.id}}'>
+<!--                        <button data-id='1' class="userinfo btn btn-success">info</button>-->
                     </div>
                     <div class="card-info">
                         <h5>{{item.Name}}</h5>
@@ -326,7 +327,7 @@
             <!-- popup -->
                 <div id="mypopup{{item.id}}" class="modal">
                     <div class="modal-content">
-                        <span class="close">&times;</span>
+                        <span class="close2">&times;</span>
 
                         <div class="mb-3">
                             <div class="row no-gutters">
@@ -341,7 +342,7 @@
                                         <p class="card-text">Release : {{item.Release}}</p>
                                         <p class="card-text">Website : {{item.Website}}</p>
                                         <p class="card-text">Genre : {{item.Genre}}</p>
-                                       
+
                                         <p class="card-text">{{item.Content}}</p>
                                         <p class="card-text"><small class="text-muted">Update : {{item.Update}}</small>
                                         </p>
@@ -397,9 +398,9 @@
 
 
     <script src="{{ url_for('static', filename = 'js/jquery.min.js') }}"></script>
-    <script src="{{ url_for('static', filename = 'js/scripts.js ') }}"></script>
+<!--    <script src="{{ url_for('static', filename = 'js/scripts.js ') }}"></script>-->
 
-    <script type="text/javascript">
+    <script>
         var modal = document.getElementById("myModal");
         var btn = document.getElementById("myBtn");
         var span = document.getElementsByClassName("close")[0];
@@ -409,38 +410,38 @@
         span.onclick = function () {
             modal.style.display = "none";
         }
-    </script>
-        <script type="text/javascript">
-            var modal1 = document.getElementById("myModal1");
-            var btn = document.getElementById("myBtn1");
-            var span = document.getElementsByClassName("close1")[0];
-            btn.onclick = function () {
-                modal1.style.display = "block";
-            }
-            span.onclick = function () {
-                modal1.style.display = "none";
-            }
-        </script>
-    <script type="text/javascript">
-                var modal2 = document.getElementById("myModal2");
-                var btn = document.getElementById("myBtn2");
-                var span = document.getElementsByClassName("close2")[0];
-                btn.onclick = function () {
-                    modal2.style.display = "block";
-                }
-                span.onclick = function () {
-                    modal2.style.display = "none";
-                }
-    </script>
 
-    <script type="text/javascript">
-        $(document).ready(function(){
-            $('.info').click(function()){
-                var id = $(this).data('id');
-                alert(id)
-            }
+        var modal1 = document.getElementById("myModal1");
+        var btn1 = document.getElementById("myBtn1");
+        var span1 = document.getElementsByClassName("close1")[0];
+        btn1.onclick = function () {
+            modal1.style.display = "block";
+        }
+        span1.onclick = function () {
+            modal1.style.display = "none";
+        }
+
+        var modal2 = document.getElementById("myModal2");
+        var btn2 = document.getElementById("myBtn2");
+        var span2 = document.getElementsByClassName("close2")[0];
+        btn2.onclick = function () {
+             modal2.style.display = "block";
+        }
+        span2.onclick = function () {
+             modal2.style.display = "none";
+        }
+
+        var md1 = document.getElementById("mypopup1");
+        var bt1 = document.getElementById("supBTN1");
+        var sp1 = document.getElementsByClassName("close2")[0];
+        bt1.onclick = function () {
+             md1.style.display = "block";
+        }
+        sp1.onclick = function () {
+             md1.style.display = "none";
         }
     </script>
+
             
 </body>
 
