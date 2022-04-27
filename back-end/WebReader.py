@@ -23,8 +23,10 @@ def listToPandas():
     webList = []
     imgList = []
     contentList = []
+    idList = []
 
     for i, val in enumerate(text):
+        idList.append(str(i+1))
         name = re.search('title="[^"]*">[<i>]*[^<]*<', val)
         name = re.search('>[^<]{1}.*',name[0])
         name = name[0][1:-1]
@@ -67,6 +69,7 @@ def listToPandas():
         else:
             dev = re.search('[a-zA-Z0-9 _/%-]+', devText)[0]
         devList.append(dev)
+    df['id'] = idList
     df['Name'] = nameList
     df['Copies_sold'] = soldList
     df['Update'] = updateList
