@@ -1,11 +1,11 @@
 from flask import Flask,render_template
-
+from WebReader import getJSON
 app = Flask(__name__)
 
 @app.route('/')
 def index():
-    data = {"name":'shiro',"age":23,"height":158}
-    return render_template('index.html',data=data)
+    data = getJSON()
+    return render_template('index.html',database=data)
 
 @app.route('/hi')
 def name():

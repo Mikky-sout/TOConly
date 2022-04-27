@@ -1,16 +1,447 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Your description">
+    <meta name="author" content="Your name">
+
+    <title>Nintendo Switch</title>
+    <link rel="icon" href="{{ url_for('static', filename = 'images/Nintendo.png')}}">
+
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+    <link href="{{ url_for('static',filename = 'css/bootstrap.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static',filename = 'css/fontawesome-all.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static',filename = 'css/styles.css') }}" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+
 </head>
-<body>
-    ไง
-    <h1>{{data[0].Name}}</h1> {{data[1].Name}}
-    <img src="{{data[0].Image_Path}}">
-    <ul>
-        <li><a href="/hi">HI</a></li>
-        <li><a href="https://en.wikipedia.org/wiki/List_of_best-selling_Nintendo_Switch_video_games#cite_note-Sept2021ConsoleSales-3">Nintendo</a> </li>
-    </ul>
+
+<body data-spy="scroll" data-target=".fixed-top">
+
+    <nav class="navbar navbar-expand-lg fixed-top navbar-dark">
+        <div class="container">
+            <!-- <a class="navbar-brand logo-image" href="index.html"><img src="images/Nintendo.svg" alt="alternative" ></a>  -->
+            <h1 class="navbar-brand logo-image">Nintendo</h1>
+
+            <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="navbar-collapse offcanvas-collapse" id="navbarsExampleDefault">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link page-scroll" href="#details">{{database[0].Name}}<span
+                                class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link page-scroll" href="#features">Features</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link page-scroll" href="#about">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link page-scroll" href="#contact">Contact</a>
+                    </li>
+                </ul>
+
+            </div>
+        </div>
+    </nav>
+
+    <div class="header">
+        <div class="ocean">
+            <div class="wave"></div>
+            <div class="wave"></div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="text-container">
+                        <h1 class="h1-large">สวัสดี พวกเรา Nintendo</h1>
+                        <p class="p-large">เรามีความยินดีที่จะประกาศเปิดตัว "เว็บไซต์อย่างเป็นทางการของ Nintendo"
+                            สำหรับผู้อยู่อาศัยในประเทศไทย
+                            เราพร้อมที่จะให้ข้อมูลต่างๆ เกี่ยวกับ Nintendo ไม่ว่าจะเป็นเครื่อง Nintendo Switch,
+                            ซอฟต์แวร์เกม รวมถึงตัวละครจากซีรีส์เกม Super Mario, The Legend of Zelda และอื่นๆ อีกมากมาย
+                        </p>
+                    </div>
+                </div>
+                <div class="col-lg-5">
+                    <div class="image-container">
+                        <img class="img-fluid" src="{{ url_for('static' ,filename = 'images/logomain.png') }}"
+                            alt="alternative">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="statement" class="basic-1">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="text-container">
+                        <h1>What is Nintendo Switch?</h1>
+                        <h3 class="h5-large">เครื่องเกมที่สนุกได้ ทุกที่ ทุกเวลา กับทุกคน</h3>
+                        <p class="p-large">Nintendo Switch นั้น นอกจากซีรีส์เกมอย่าง Super Mario หรือ The Legend of
+                            Zelda ยังสามารถเล่นเกมได้อีกหลากหลายประเภท เช่น เกมออกกำลังกายในขณะผจญภัย
+                            เกมที่ช่วยให้ได้สัมผัสประสบการณ์การเขียนโปรแกรมเกม ฯลฯ จะเล่นเกมกับทุกคนบนทีวีจอใหญ่
+                            หรือพกพาไปเล่นนอกบ้านก็ได้</p>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div id="features" class="basic-4">
+        <div class="container">
+            <div class="col-lg-12">
+                <div class="text-container text-container">
+                    <h3>Best selling video games</h3><br>
+                </div>
+            </div>
+            <div class="row">
+
+                <div class="card-grid-space2 " id="myBtn">
+                    <div class="num2"><img class="center_img"
+                            src="{{url_for('static' ,filename = 'images/pngegg (5).png') }}" alt="Blog Name"
+                            width="50px" height="80px"></div>
+                    <div class="card2" style="--bg-img: url({{database[0].Image_Path}})">
+                        <div>
+                            <h5>{{database[0].Name}}</h5>
+                            <p>{{database[0].Developer}}</p>
+                            <div class="date2">{{database[0].Update}}</div>
+                            <div class="tags2">
+                                <h6>จำนวน : {{database[0].Copies_sold}} ชิ้น</h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-grid-space2 " id="myBtn1">
+                    <div class="num2"><img class="center_img"
+                            src="{{url_for('static' ,filename = 'images/pngegg (6).png') }}" alt="Blog Name"
+                            width="50px" height="80px"></div>
+                    <div class="card2" style="--bg-img: url('{{database[1].Image_Path}}')">
+                        <div>
+                            <h5>{{database[1].Name}}</h5>
+                            <p>{{database[1].Developer}}</p>
+                            <div class="date2">{{database[1].Update}}</div>
+                            <div class="tags2">
+                                <h6>จำนวน : {{database[1].Copies_sold}} ชิ้น</h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-grid-space2" id="myBtn2">
+                    <div class="num2"><img class="center_img"
+                            src="{{url_for('static' ,filename = 'images/pngegg (7).png') }}" alt="Blog Name"
+                            width="50px" height="80px"></div>
+                    <div class="card2" style="--bg-img: url('{{database[2].Image_Path}}')">
+                        <div>
+                            <h5>{{database[2].Name}}</h5>
+                            <p>{{database[2].Developer}}</p>
+                            <div class="date2">{{database[2].Update}}</div>
+                            <div class="tags2">
+                                <h6>จำนวน : {{database[2].Copies_sold}} ชิ้น</h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+    <!-- popup -->
+                <div id="myModal" class="modal">
+                    <div class="modal-content">
+                        <span class="close">&times;</span>
+
+                        <div class="mb-3">
+                            <div class="row no-gutters">
+                                <div class="col-md-4">
+                                    <img src="{{database[0].Image_Path}}" class="card-img img1" alt="Blog Name" width="450px" height="500px">
+                                </div>
+                                <div class="col-md-8">
+                                    <div class="card-body">
+                                        <h5 class="card-title">{{database[0].Name}}</h5>
+                                        <p class="card-text">Developer : {{database[0].Developer}}
+                                        </p>
+                                        <p class="card-text">Release : {{database[0].Release}}</p>
+                                        <p class="card-text">Website : {{database[0].Website}}</p>
+                                        <p class="card-text">Genre : {{database[0].Genre}}</p>
+                                       
+                                        <p class="card-text">{{database[0].Content}}</p>
+                                        <p class="card-text"><small class="text-muted">Update : {{database[0].Update}}</small>
+                                        </p>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="myModal1" class="modal">
+                    <div class="modal-content">
+                        <span class="close1">&times;</span>
+
+                        <div class="mb-3">
+                            <div class="row no-gutters">
+                                <div class="col-md-4">
+                                    <img src="{{database[1].Image_Path}}" class="card-img img1" alt="Blog Name" width="400px" height="500px">
+                                </div>
+                                <div class="col-md-8">
+                                    <div class="card-body">
+                                        <h5 class="card-title">{{database[1].Name}}</h5>
+                                        <p class="card-text">Developer : {{database[1].Developer}}
+                                        </p>
+                                        <p class="card-text">Release : {{database[1].Release}}</p>
+                                        <p class="card-text">Website : {{database[1].Website}}</p>
+                                        <p class="card-text">Genre : {{database[1].Genre}}</p>
+                                       
+                                        <p class="card-text">{{database[1].Content}}</p>
+                                        <p class="card-text"><small class="text-muted">Update : {{database[1].Update}}</small>
+                                        </p>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div id="myModal2" class="modal">
+                    <div class="modal-content">
+                        <span class="close2">&times;</span>
+
+                        <div class="mb-3">
+                            <div class="row no-gutters">
+                                <div class="col-md-4">
+                                    <img src="{{database[2].Image_Path}}" class="card-img img1" alt="Blog Name" width="400px" height="500px">
+                                </div>
+                                <div class="col-md-8">
+                                    <div class="card-body">
+                                        <h5 class="card-title">{{database[2].Name}}</h5>
+                                        <p class="card-text">Developer : {{database[2].Developer}}
+                                        </p>
+                                        <p class="card-text">Release : {{database[2].Release}}</p>
+                                        <p class="card-text">Website : {{database[2].Website}}</p>
+                                        <p class="card-text">Genre : {{database[2].Genre}}</p>
+                                       
+                                        <p class="card-text">{{database[2].Content}}</p>
+                                        <p class="card-text"><small class="text-muted">Update : {{database[2].Update}}</small>
+                                        </p>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <!-- <div class="container col-lg-3">
+                    <div class="swiper-wrapper content">
+                      <div class="swiper-slide card1">
+                        <div class="card-content1">
+                          <div class="image1 ">
+                            <img class="img-circle" src="{{database[1].Image_Path}}" alt="" width="210px" height="210px">
+                          </div>
+                          <div class="name-profession">
+                            <span class="name">{{database[1].Name}}</span>
+                            <span class="profession">{{database[1].Update}}</span>
+                            <span class="profession">ราคา :{{database[1].Copies_sold}} บาท</span>
+                          </div>
+                        </div>
+                      </div>
+                  </div>
+                </div> 
+
+                <div class="container  col-lg-3">
+                    <div class="swiper-wrapper content">
+                      <div class="swiper-slide card1">
+                        <div class="card-content1">
+                          <div class="image1 ">
+                            <img class="img-circle" src="{{database[1].Image_Path}}" alt="" width="210px" height="210px">
+                          </div>
+                          <div class="name-profession">
+                            <span class="name">{{database[1].Name}}</span>
+                            <span class="profession">{{database[1].Update}}</span>
+                            <span class="profession">ราคา :{{database[1].Copies_sold}} บาท</span>
+                          </div>
+                        </div>
+                      </div>
+                  </div>
+                </div>  -->
+
+                <!-- <div class="container  col-lg-3">
+                    <div class="swiper-wrapper content">
+                      <div class="swiper-slide card1">
+                        <div class="card-content1">
+                          <div class="image1 ">
+                            <img class="img-circle" src="{{database[1].Image_Path}}" alt="" width="210px" height="210px">
+                          </div>
+                          <div class="name-profession">
+                            <span class="name">{{database[1].Name}}</span>
+                            <span class="profession">{{database[1].Update}}</span>
+                            <span class="profession">ราคา :{{database[1].Copies_sold}} บาท</span>
+                          </div>
+                        </div>
+                      </div>
+                  </div>
+                </div>  -->
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <div id="featuresSub" class="basic-4">
+        <div class="container">
+            <div class="col-lg-12">
+                <div class="text-container">
+                    <h3>ซอฟต์แวร์เกม Nintendo Switch</h3><br>
+                </div>
+            </div>
+            <div class="row">
+                {% for item in database %}
+                <div class="col-lg-3 shadow-sm mb-3 card" id="myBtnpopup{{item.id}}">
+                    <div class="card-top">
+                        <img src="{{item.Image_Path}}" alt="Blog Name" width="150px" height="150px" data-id="{{item.id}}" class="info">
+                    </div>
+                    <div class="card-info">
+                        <h5>{{item.Name}}</h5>
+                        <span class="date">{{item.Update}}</span>
+                    </div>
+                </div>
+                <div class="col-lg-1"></div>
+                
+            <!-- popup -->
+                <div id="mypopup{{item.id}}" class="modal">
+                    <div class="modal-content">
+                        <span class="close">&times;</span>
+
+                        <div class="mb-3">
+                            <div class="row no-gutters">
+                                <div class="col-md-4">
+                                    <img src="{{item.Image_Path}}" class="card-img" alt="Blog Name" width="450px" height="500px">
+                                </div>
+                                <div class="col-md-8">
+                                    <div class="card-body">
+                                        <h5 class="card-title">{{item.Name}}</h5>
+                                        <p class="card-text">Developer : {{item.Developer}}
+                                        </p>
+                                        <p class="card-text">Release : {{item.Release}}</p>
+                                        <p class="card-text">Website : {{item.Website}}</p>
+                                        <p class="card-text">Genre : {{item.Genre}}</p>
+                                       
+                                        <p class="card-text">{{item.Content}}</p>
+                                        <p class="card-text"><small class="text-muted">Update : {{item.Update}}</small>
+                                        </p>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="footer bg-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="social-container">
+                        <span class="fa-stack">
+                            <a href="https://www.facebook.com/NintendoSEA/">
+                                <i class="fas fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-facebook-f fa-stack-1x"></i>
+                            </a>
+                        </span>
+                        <span class="fa-stack">
+                            <a href="https://www.youtube.com/channel/UC8GOuhF_bDzPzv8968q8a4A">
+                                <i class="fas fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-youtube fa-stack-1x"></i>
+                            </a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <div class="copyright bg-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <p class="p-small"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="{{ url_for('static', filename = 'js/jquery.min.js') }}"></script>
+    <script src="{{ url_for('static', filename = 'js/scripts.js ') }}"></script>
+
+    <script type="text/javascript">
+        var modal = document.getElementById("myModal");
+        var btn = document.getElementById("myBtn");
+        var span = document.getElementsByClassName("close")[0];
+        btn.onclick = function () {
+            modal.style.display = "block";
+        }
+        span.onclick = function () {
+            modal.style.display = "none";
+        }
+    </script>
+        <script type="text/javascript">
+            var modal1 = document.getElementById("myModal1");
+            var btn = document.getElementById("myBtn1");
+            var span = document.getElementsByClassName("close1")[0];
+            btn.onclick = function () {
+                modal1.style.display = "block";
+            }
+            span.onclick = function () {
+                modal1.style.display = "none";
+            }
+        </script>
+    <script type="text/javascript">
+                var modal2 = document.getElementById("myModal2");
+                var btn = document.getElementById("myBtn2");
+                var span = document.getElementsByClassName("close2")[0];
+                btn.onclick = function () {
+                    modal2.style.display = "block";
+                }
+                span.onclick = function () {
+                    modal2.style.display = "none";
+                }
+    </script>
+
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $('.info').click(function()){
+                var id = $(this).data('id');
+                alert(id)
+            }
+        }
+    </script>
+            
 </body>
+
 </html>

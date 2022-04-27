@@ -14,6 +14,7 @@ def getHTML():
 def listToPandas():
     text = getHTML()
     df = pd.DataFrame()
+
     nameList = []
     soldList = []
     updateList = []
@@ -129,6 +130,7 @@ def getJSON():
 
 
 # === Main ===
-saveJSON()
+if __name__ == '__main__':
+    saveJSON()
 
 

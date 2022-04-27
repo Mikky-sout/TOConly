@@ -337,6 +337,18 @@
     },
     {
         "id": "29",
+        "Name": "Minecraft",
+        "Copies_sold": "3.01",
+        "Update": "April 21, 2022",
+        "Release": "May 11, 2017",
+        "Genre": "Sandbox game , Survival game",
+        "Developer": "Mojang",
+        "Website": "https://en.wikipedia.org/wiki/Minecraft",
+        "Image_Path": "//upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png",
+        "Content": "Minecraft is a sandbox video game developed by Mojang Studios. The game was created by Markus in the Java programming language. Following several early private testing versions, it was first made public in May 2009 before fully releasing in November 2011, with Notch stepping down and Jens taking over development. Minecraft has since been ported to several other platforms and is the best-selling video game of all time, with over 238 million copies sold and nearly 140 million monthly active users as of 2021."
+    },
+    {
+        "id": "30",
         "Name": "Kirby Star Allies",
         "Copies_sold": "2.93",
         "Update": "December 31, 2019",
@@ -348,7 +360,7 @@
         "Content": "Kirby Star Allies is a 2018 platform video game developed by HAL Laboratory and published by Nintendo for the Nintendo Switch. The sixteenth mainline installment in the Kirby series, the player controls Kirby in his quest to prevent a priest named Hyness from reviving a dark force to destroy the universe. Kirby must complete each level by jumping, inhaling enemies, and using his array of abilities to progress."
     },
     {
-        "id": "30",
+        "id": "31",
         "Name": "Fire Emblem: Three Houses",
         "Copies_sold": "2.87",
         "Update": "March 31, 2020",
@@ -358,18 +370,6 @@
         "Website": "https://en.wikipedia.org/wiki/Fire_Emblem:_Three_Houses",
         "Image_Path": "//upload.wikimedia.org/wikipedia/en/1/16/Fire_Emblem_Three_Houses.jpg",
         "Content": "Fire Emblem: Three Houses is a tactical role-playing game developed by Intelligent Systems and Koei Tecmo for the Nintendo Switch and published worldwide by Nintendo. It is the sixteenth installment in the Fire Emblem series and the first one for home consoles since Fire Emblem: Radiant Dawn, originally released in 2007."
-    },
-    {
-        "id": "31",
-        "Name": "Minecraft",
-        "Copies_sold": "2.81",
-        "Update": "December 5, 2021",
-        "Release": "May 11, 2017",
-        "Genre": "Sandbox game , Survival game",
-        "Developer": "Mojang",
-        "Website": "https://en.wikipedia.org/wiki/Minecraft",
-        "Image_Path": "//upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png",
-        "Content": "Minecraft is a sandbox video game developed by Mojang Studios. The game was created by Markus in the Java programming language. Following several early private testing versions, it was first made public in May 2009 before fully releasing in November 2011, with Notch stepping down and Jens taking over development. Minecraft has since been ported to several other platforms and is the best-selling video game of all time, with over 238 million copies sold and nearly 140 million monthly active users as of 2021."
     },
     {
         "id": "32",
